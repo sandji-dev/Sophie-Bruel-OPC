@@ -199,7 +199,7 @@ footer nav ul {
 
 /* ---------- login.html  ---------- */
 
-/* -- Form layout ------------------ */
+/* Form layout */ 
 
 #login-section{
     max-width: 420px;
@@ -220,7 +220,7 @@ footer nav ul {
     margin-bottom: 0.3rem;
 }
 
-/* -- Inputs ------------------- */
+/* -- Inputs  */
 
 #login-section input[type="email"],
 #login-section input[type="password"]{
@@ -241,7 +241,7 @@ footer nav ul {
     outline: none;
 }
 
-/* -- Submit button ----------------- */
+/* -- Submit button  */
 
 #login-section input[type="submit"]{
     font-family: 'Syne', sans-serif;
@@ -262,7 +262,7 @@ footer nav ul {
     transform: scale(1.03);
 }
 
-/* -- Forgot‑password link --------------------------------------------- */
+/* -- Forgot‑password link  */
 .forgot-password{
     display: inline-block;
     margin-top: 1rem;
